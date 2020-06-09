@@ -1,2 +1,9 @@
 # scrapping-covid-19-Data-
-Fetching data from website api and processing data and saving data in mongodb and saving data in csv and send mail using python on daily basis 
+
+This repo is for self learning purpose 
+
+
+1) Fetching data from website api
+2) Processing data 
+3) Saving data in mongodb & saving data in csv 
+4) Sending mail using python on daily basis using cron job
